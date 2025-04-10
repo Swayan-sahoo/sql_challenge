@@ -1,12 +1,12 @@
 ## sql_challenge
-# README: SQL Challenge – Employee Data Analysis Project
-Project Overview
+## Employee Data Analysis Project
+## Project Overview
 Welcome to the SQL Challenge! This project involves working with historical employee data from Pewlett Hackard (a fictional company) to analyze the workforce from the 1980s and 1990s. Your task as a data engineer is to import the provided CSV files into a relational database, design the appropriate schema, and answer key business questions through data analysis.
 
 # Project Goals
 This project is divided into three main phases:
 
-Data Modeling
+## Data Modeling
 
 Create an Entity Relationship Diagram (ERD) to visualize relationships between data tables.
 Data Engineering
@@ -37,10 +37,10 @@ Project Files
 CSV Files:
 Six CSV files containing employee and department data.
 
-# SQL Script Files:
+## SQL Script Files:
 Scripts for table creation, data insertion, and analysis queries.
 
-# Entity Relationship Diagram:
+## Entity Relationship Diagram:
 A visual representation of the table relationships (e.g., created using QuickDBD).
 
 Instructions
